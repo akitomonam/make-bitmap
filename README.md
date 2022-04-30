@@ -8,9 +8,9 @@ bash make_bmp.sh
 ```
 →bmpファイルがbmp_files内に作成される
 # 注意
-make_bmp.sh内のheaderは課題内容と異なる可能性がある
-プログラムファイルには対応不可
-ファイルパス入力で失敗しても適当にbmpファイルが作成されてしまう
+make_bmp.sh内のheaderは課題内容と異なる可能性がある  
+プログラムファイルには対応不可  
+ファイルパス入力で失敗しても適当にbmpファイルが作成されてしまう  
 
 ## 参考
 - https://qiita.com/chooyan_eng/items/151e67684e5ef8d1a695
