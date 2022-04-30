@@ -1,5 +1,5 @@
-授業で扱ったBitmap画像の作成プログラム
-# 使い方
+#授業で扱ったBitmap画像の作成プログラム
+## 使い方
 ```
 bash make_bmp.sh
 ```
@@ -8,11 +8,11 @@ bash make_bmp.sh
 >>>sample.txt
 ```
 →bmpファイルがbmp_files内に作成される
-# 注意
+## 注意
 make_bmp.sh内のheaderは課題内容と異なる可能性がある  
 プログラムファイルには対応不可  
 ファイルパス入力で失敗しても適当にbmpファイルが作成されてしまう  
-# 検証済み環境
+## 検証済み環境
 ubuntu 20.04
 ## 参考
 - https://qiita.com/chooyan_eng/items/151e67684e5ef8d1a695
