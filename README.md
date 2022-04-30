@@ -15,4 +15,4 @@ make_bmp.sh内のheaderは課題内容と異なる可能性がある
 ubuntu 20.04
 ## 参考
 - https://qiita.com/chooyan_eng/items/151e67684e5ef8d1a695
-- https://shiro-neko.net/blog/2021/04/27/od-command/
+- https://shiro-nekonet/log/2021/04/27/od-command/
