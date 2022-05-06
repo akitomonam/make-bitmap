@@ -1,4 +1,6 @@
-# 授業で扱ったBitmap画像の作成プログラム
+# Bitmap画像の作成プログラム
+## 概要    
+[バイナリかるた](https://kozos.jp/binary-karuta/)で扱われる画像をシェルスクリプトで作成
 ## 使い方
 ```
 bash make_bmp.sh
