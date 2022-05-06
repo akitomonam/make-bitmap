@@ -12,7 +12,7 @@ bash make_bmp.sh
 ```
 →bmpファイルがbmp_files内に作成される
 ## 注意
-make_bmp.sh内のheaderは課題内容と異なる可能性がある  
+(make_bmp.sh)[./make_bmp.sh]内のheaderは課題内容と異なる可能性がある  
 対応不可なファイルが存在する
 ファイルパス入力で失敗しても適当にbmpファイルが作成されてしまう  
 ## 検証済み環境
